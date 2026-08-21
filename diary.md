@@ -1,11 +1,9 @@
 # Friday 21 AUG 26
 
-Initial log entry. 
+- Initial log entry. 
+  - <img src="log/21AUG26.jpg" width="150">
 
-<!--![image](log/21AUG26.jpg){width=100}-->
+- Add some concept drawings. 
+  - <img src="log/21AUG26_sketches.jpg" width="250">
 
-<img src="log/21AUG26.jpg" width="250">
-
-Add some concept drawings. 
-
-<img src="log/21AUG26_sketches.jpg" width="250">
+- Add some design documents
