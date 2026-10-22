@@ -28,3 +28,20 @@ Select NEOPIXEL as a it simplifies driving RGB LEDs, is well supported and inexp
     <td><td>
   </tr>
 </table>
+
+
+### Shopping List
+
+| Description | Part # | Price | Retailer | Purchased |
+|-|-|-|-|-|
+| Micro dev board | NUCLEO-F446RE | $55.50 | [Core](https://core-electronics.com.au/nucleo-f446re-stm32f4-nucleo-board.html) | x |
+| LED Array N X N | ? | $16.91 | [Amazon](https://www.amazon.com.au/dp/B0F1CTXJZ4?ref=ppx_yo2ov_dt_b_fed_asin_title) | x |  
+| 3x big buttons | ? | $16.99 | [Amazon](https://www.amazon.com.au/dp/B0GPQX89JS?ref=ppx_yo2ov_dt_b_fed_asin_title) | x |
+| Commercial power supply | ? | $28.50 | [Amazon](https://www.amazon.com.au/dp/B0CZ9M6X8Q?ref=ppx_yo2ov_dt_b_fed_asin_title) | x |
+| Reverse polarity protection | 1N4001 | $2.80 | [Core](https://core-electronics.com.au/1n4001-diode-10-pack.html) | x |
+| USB-C Male to USB-C Male | ? | $16.55 | [Core](https://core-electronics.com.au/usb-c-to-usb-c-cable-usb-3-1-gen-4-with-e-mark-6-long.html) | x |
+| USB C breakout board | ? | $5.40 | [Core](https://core-electronics.com.au/adafruit-sunken-usb-c-breakout-board-downstream-connection.html) | x |
+| Power toggle switch | ? | $10.40 | [Core](https://core-electronics.com.au/illuminated-toggle-switch-with-cover-blue.html) | x |
+| Power fuse | ? | $10.95 | [Core](https://core-electronics.com.au/3a-panel-mount-circuit-breaker-resettable-fuse.html) | x |
+| Pass though panel mount USB-C male to female | ? | $25.49 | [Amazon](https://www.amazon.com.au/dp/B0DRWPC73G?ref=ppx_yo2ov_dt_b_fed_asin_title) | x |
+| | **Total** | **$188.49** |

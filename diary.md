@@ -6,4 +6,5 @@
 - Add some concept drawings. 
   - <img src="log/21AUG26_sketches.jpg" width="250">
 
-- Add some design documents
+- Add some design documents for picking parts.
+  - Might go with STM32G0 and NEOPIXEL
