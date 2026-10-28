@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "ea99d06df3d8dc9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "18c21705f3737cea",
+        "type": "tabs",
+        "dimension": 54.648014440433215,
+        "children": [
+          {
+            "id": "66568f534d00f49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parts/WS2812B LED Array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WS2812B LED Array"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6b837de29d921a46",
+        "type": "tabs",
+        "dimension": 45.351985559566785,
+        "children": [
+          {
+            "id": "50a70ee4bb866ab0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "docs/WS2812B.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "WS2812B"
+            }
+          },
+          {
+            "id": "054098cb6de64034",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a04be473a692d8dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "40ccb8989fc1c7b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "834723deec1c438e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f41535f5041747ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "345e4c4d78989960",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76272c254ddf986c",
+    "type": "split",
+    "children": [
+      {
+        "id": "baf3e58e482a619a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e35a75ef66df33b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Parts/WS2812B LED Array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8e309171719b5b27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Parts/WS2812B LED Array.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2be49e53cb051133",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b76b15957a92b599",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ae19eb13a168eab2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Parts/WS2812B LED Array.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "66568f534d00f49d",
+  "lastOpenFiles": [
+    "Pasted image 20261028162836.png",
+    "docs/DS_stm32f446mc.pdf",
+    "docs/Unconfirmed 705726.crdownload",
+    "Pasted image 20261028154735.png",
+    "Pasted image 20261028154728.png",
+    "Parts",
+    "Design.md",
+    "Parts/WS2812B LED Array.md",
+    "docs/WS2812B.pdf",
+    "To Do.md",
+    "docs",
+    "Diary.md",
+    "Images/28OCT26.jpg",
+    "Welcome.md",
+    "Images/21AUG26_sketches.jpg",
+    "Images",
+    "Images/21AUG26.jpg"
+  ]
+}
